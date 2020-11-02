@@ -1,4 +1,5 @@
-# vue-test
+# Тестовое задание
+<p>Использованные технологии: Vue\Vuex\VueRouter</p>
 
 ## Project setup
 ```
